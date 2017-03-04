@@ -1,0 +1,1 @@
+# Implement WS-federation with AAD and an ASP.NET MVC App
