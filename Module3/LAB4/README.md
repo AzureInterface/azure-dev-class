@@ -1,6 +1,6 @@
 # Lab 4 - Create VNet-to-VNet VPN
 
-* Use the Azure portal to create two new VMs. The script will create a new vnet for each VM. Make sure you use seperate IPv4 address spaces for each vnet
+* Use the Azure portal to create two new VMs. The portal will set up a vnet for each VM in each region. Make you use seperate IPv4 address spaces for each vnet
 * Add a gateway subnet to each vnet
 * Add a VPN gateway to each vnet
 * Add a connection object to build the VPN tunnel between vnets
