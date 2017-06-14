@@ -4,7 +4,7 @@
 
 Deploy a Web App to Azure:
 
-
+* Create a Web App and App Service Plan in the Azure Portal
 
 * Use Visual Studio to create a new Web Application
 
