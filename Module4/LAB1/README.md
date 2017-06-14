@@ -16,8 +16,6 @@ Deploy a Web App to Azure:
 
 * Right click the project and select Publish Web App
 
-* Deploy your site to a new Resource Group and App Service plan
-
 
 
 Create a "Dev" Deployment Slot:
